@@ -5,6 +5,19 @@
   padding: 0;
 }
 
+/* O Logo propriamente dito (Versão Desktop) */
+.instagram-logo {
+    max-width: 250px;       /* Tamanho ideal padrão do texto do logo do Instagram */
+    height: auto;           /* Mantém a proporção perfeita para não amassar */
+    object-fit: contain;
+    transition: transform 0.2s ease;
+}
+
+/* Caso queira ajustar o logo mini de mobile */
+.instagram-logo-small {
+    max-width: 24px;
+    height: auto;
+}
 
 body {
   font-family: "Poppins", sans-serif;

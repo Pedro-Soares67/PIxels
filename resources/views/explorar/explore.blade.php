@@ -24,7 +24,7 @@
                     <div class="logo">
                         <a href="/">
                             <img class="d-block d-lg-none small-logo" src="./images/instagram.png" alt="logo">
-                            <img class="d-none d-lg-block" src="./images/logo_menu.png" alt="logo">
+                            <img class="d-none d-lg-block" src="/images/pixelss.png" alt="logo">
                         </a>
                     </div>
                     <div class="menu">
@@ -74,7 +74,7 @@
                             </li>
                             <li>
                                 <a href="./perfil">
-                                    <img class="circle story" src="./images/profile_img.jpg">
+                                    <img class="circle story" src="https://media.tenor.com/3L_AYUSs6gMAAAAe/pepo.png">
                                     <span class="d-none d-lg-block ">Profile</span>
                                 </a>
                             </li>

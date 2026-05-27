@@ -25,13 +25,13 @@
                     <div class="logo">
                         <a href="./">
                             <img class="d-block d-lg-none small-logo" src="./images/instagram.png" alt="logo">
-                            <img class="d-none d-lg-block" src="./images/logo_menu.png" alt="logo">
+                            <img class="d-none d-lg-block" src="/images/pixelss.png" alt="logo">
                         </a>
                     </div>
                     <div class="menu">
                         <ul>
                             <li>
-                                <a class="active" href="home">
+                                <a class="active" href="/">
                                     <img src="./images/accueil.png">
                                     <span class="d-none d-lg-block ">Home</span>
                                 </a>
@@ -75,7 +75,7 @@
                             </li>
                             <li>
                                 <a href="./perfil">
-                                    <img class="circle story" src="./images/profile_img.jpg">
+                                    <img class="circle story" src="https://media.tenor.com/3L_AYUSs6gMAAAAe/pepo.png">
                                     <span class="d-none d-lg-block ">Profile</span>
                                 </a>
                             </li>
@@ -213,11 +213,11 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://c.ndtvimg.com/2026-04/kmh35bi4_trump-jesus_625x300_14_April_26.jpg?im=FaceCrop,algorithm=dnn,width=270,height=300" alt="">
                             </div>
                             <div class="info">
-                                <p class="name">Zineb_essoussi</p>
-                                <p class="second_name">Zim Ess</p>
+                                <p class="name">Trump</p>
+                                <p class="second_name">Tr</p>
                             </div>
                         </div>
                         <div class="clear">
@@ -378,31 +378,20 @@
                         <div class="cart">
                             <div>
                                 <div class="img">
-                                    <img src="./images/profile_img.jpg" alt="">
+                                    <img src="https://c.ndtvimg.com/2026-04/kmh35bi4_trump-jesus_625x300_14_April_26.jpg?im=FaceCrop,algorithm=dnn,width=270,height=300" alt="">
                                 </div>
                                 <div class="info">
-                                    <p class="name">Zineb_essoussi</p>
+                                    <p class="name">Trump</p>
                                 </div>
                             </div>
                         </div>
                         <div class="cart">
                             <div>
                                 <div class="img">
-                                    <img src="./images/profile_img.jpg" alt="">
+                                    <img src="https://www.estadao.com.br/resizer/v2/PXPAQXGOPZH3DDY6GL6IUKLG7E.jpg?quality=80&auth=46dd0bffc664e61889e65bd0bb2401273bd3e21f169d62f9add39e11476776d2&width=380" alt="">
                                 </div>
                                 <div class="info">
-                                    <p class="name">Zineb_essoussi</p>
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="cart">
-                            <div>
-                                <div class="img">
-                                    <img src="./images/profile_img.jpg" alt="">
-                                </div>
-                                <div class="info">
-                                    <p class="name">Zineb_essoussi</p>
+                                    <p class="name">Jeffr</p>
                                 </div>
                             </div>
 
@@ -410,53 +399,10 @@
                         <div class="cart">
                             <div>
                                 <div class="img">
-                                    <img src="./images/profile_img.jpg" alt="">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbc7yviHnfmO4PdeFKv2-TbiT3zmxMSRWxA&s" alt="">
                                 </div>
                                 <div class="info">
-                                    <p class="name">Zineb_essoussi</p>
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="cart">
-                            <div>
-                                <div class="img">
-                                    <img src="./images/profile_img.jpg" alt="">
-                                </div>
-                                <div class="info">
-                                    <p class="name">Zineb_essoussi</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="cart">
-                            <div>
-                                <div class="img">
-                                    <img src="./images/profile_img.jpg" alt="">
-                                </div>
-                                <div class="info">
-                                    <p class="name">Zineb_essoussi</p>
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="cart">
-                            <div>
-                                <div class="img">
-                                    <img src="./images/profile_img.jpg" alt="">
-                                </div>
-                                <div class="info">
-                                    <p class="name">Zineb_essoussi</p>
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="cart">
-                            <div>
-                                <div class="img">
-                                    <img src="./images/profile_img.jpg" alt="">
-                                </div>
-                                <div class="info">
-                                    <p class="name">Zineb_essoussi</p>
+                                    <p class="name">Keven</p>
                                 </div>
                             </div>
 
@@ -468,10 +414,10 @@
                         <div class="cart">
                             <div>
                                 <div class="img">
-                                    <img src="./images/profile_img.jpg" alt="">
+                                    <img src="https://c.ndtvimg.com/2026-04/kmh35bi4_trump-jesus_625x300_14_April_26.jpg?im=FaceCrop,algorithm=dnn,width=270,height=300" alt="">
                                 </div>
                                 <div class="info">
-                                    <p class="name">Zineb_essoussi</p>
+                                    <p class="name">Trump</p>
                                 </div>
                             </div>
                         </div>
@@ -486,16 +432,16 @@
                     </div>
                     <div class="content">
                         <div class="my_message">
-                            <p class="p_message">hello how are you?</p>
+                            <p class="p_message">hi</p>
                         </div>
                         <div class="response_message">
-                            <p class="p_message">hi! i'm fine and you?</p>
+                            <p class="p_message">hi</p>
                         </div>
                         <div class="my_message">
-                            <p class="p_message">I'm good </p>
+                            <p class="p_message">What do you want?</p>
                         </div>
                         <div class="response_message">
-                            <p class="p_message">I'll come tomorrow</p>
+                            <p class="p_message">Ahh...you?</p>
                         </div>
 
                     </div>

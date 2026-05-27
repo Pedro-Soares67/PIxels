@@ -24,13 +24,13 @@
                     <div class="logo">
                         <a href="./">
                             <img class="d-block d-lg-none small-logo" src="./images/instagram.png" alt="logo">
-                            <img class="d-none d-lg-block" src="./images/logo_menu.png" alt="logo">
+                            <img class="d-none d-lg-block" src="/images/pixelss.png" alt="logo">
                         </a>
                     </div>
                     <div class="menu">
                         <ul>
                             <li>
-                                <a class="active" href="home">
+                                <a class="active" href="/">
                                     <img src="./images/accueil.png">
                                     <span class="d-none d-lg-block ">Home</span>
                                 </a>
@@ -74,7 +74,7 @@
                             </li>
                             <li>
                                 <a href="./perfil">
-                                    <img class="circle story" src="./images/profile_img.jpg">
+                                    <img class="circle story" src="https://media.tenor.com/3L_AYUSs6gMAAAAe/pepo.png">
                                     <span class="d-none d-lg-block ">Profile</span>
                                 </a>
                             </li>
@@ -212,11 +212,11 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://www.estadao.com.br/resizer/v2/PXPAQXGOPZH3DDY6GL6IUKLG7E.jpg?quality=80&auth=46dd0bffc664e61889e65bd0bb2401273bd3e21f169d62f9add39e11476776d2&width=380" alt="">
                             </div>
                             <div class="info">
-                                <p class="name">Zineb_essoussi</p>
-                                <p class="second_name">Zim Ess</p>
+                                <p class="name">Jeffr</p>
+                                <p class="second_name">JF</p>
                             </div>
                         </div>
                         <div class="clear">
@@ -235,13 +235,13 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://www.estadao.com.br/resizer/v2/PXPAQXGOPZH3DDY6GL6IUKLG7E.jpg?quality=80&auth=46dd0bffc664e61889e65bd0bb2401273bd3e21f169d62f9add39e11476776d2&width=380" alt="">
                             </div>
                             <div class="info">
                                 <p class="name">
-                                    Zineb_essoussi
+                                    Jeffr
                                     <span class="desc">started following you.</span>
-                                    <span class="time">2h</span>
+                                    <span class="time">67s</span>
                                 </p>
 
                             </div>
@@ -255,13 +255,13 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFrn4q1oY6BkbqkJWbIPAZxBiIrfyePNt2UQ&s" alt="">
                             </div>
                             <div class="info">
                                 <p class="name">
-                                    Zineb_essoussi
+                                    Daddy
                                     <span class="desc">started following you.</span>
-                                    <span class="time">2h</span>
+                                    <span class="time">69s</span>
                                 </p>
 
                             </div>
@@ -275,12 +275,12 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFrn4q1oY6BkbqkJWbIPAZxBiIrfyePNt2UQ&s" alt="">
                             </div>
                             <div class="info">
                                 <div class="info">
                                     <p class="name">
-                                        Zineb_essoussi
+                                        Daddy
                                         <span class="desc">liked your story.</span>
                                         <span class="time">2d</span>
                                     </p>
@@ -297,11 +297,11 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://i.pinimg.com/474x/e8/28/6e/e8286ed2e512757a9e0831ed9ebe0599.jpg" alt="">
                             </div>
                             <div class="info">
                                 <p class="name">
-                                    Zineb_essoussi
+                                    Raiam
                                     <span class="desc">started following you.</span>
                                     <span class="time">2h</span>
                                 </p>
@@ -317,12 +317,12 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://i.pinimg.com/474x/e8/28/6e/e8286ed2e512757a9e0831ed9ebe0599.jpg" alt="">
                             </div>
                             <div class="info">
                                 <div class="info">
                                     <p class="name">
-                                        Zineb_essoussi
+                                        Raiam
                                         <span class="desc">liked your story.</span>
                                         <span class="time">2d</span>
                                     </p>
@@ -339,11 +339,11 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYGLJXjDh_teN4aH7dNJzE0TQHcC0VO9itkA&s" alt="">
                             </div>
                             <div class="info">
                                 <p class="name">
-                                    Zineb_essoussi
+                                    Em0x
                                     <span class="desc">started following you.</span>
                                     <span class="time">2h</span>
                                 </p>
@@ -363,24 +363,23 @@
             <div class="profile_info">
                 <div class="cart">
                         <div class="img">
-                            <img src="./images/profile_img.jpg" alt="">
+                            <img src="https://media.tenor.com/3L_AYUSs6gMAAAAe/pepo.png" alt="">
                         </div>
                         <div class="info">
                             <p class="name">
-                                Zineb_essoussi
+                                Peppo
                                 <button class="edit_profile">
                                     Edit profile 
                                 </button>
                             </p>
                             <div class="general_info">
-                                <p><span>1</span> post</p>
-                                <p><span>177</span> followers</p>
-                                <p><span>137</span> following</p>
+                                <p><span>19</span> post</p>
+                                <p><span>67</span> followers</p>
+                                <p><span>69</span> following</p>
                             </div>
-                            <p class="nick_name">Zin Ess</p>
+                            <p class="nick_name">pp</p>
                             <p class="desc">
-                                I'am an engineering student <br>
-                                ENSAO
+                                frog
                             </p>
                         </div>
                 </div>
@@ -388,9 +387,9 @@
             <div class="highlights">
                 <div class="highlight">
                     <div class="img">
-                        <img src="./images/profile_img.jpg" alt="">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxu4j6f8IDiG6kRej8fUnTTdN2M8sCH9W3zg&s" alt="">
                     </div>
-                    <p>conseils</p>
+                    <p>family</p>
                 </div>
                 <div class="highlight highlight_add">
                     <div class="img">

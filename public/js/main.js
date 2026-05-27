@@ -1,12 +1,12 @@
 
-/***************Post**************************/
+/***************Post**************************/ 
 const posts = document.querySelector(".posts");
 const post_data = [
-  ['https://i.ibb.co/3S1hjKR/account1.jpg','zineb',45,'https://i.ibb.co/Jqh3rHv/img1.jpg',150,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
-  ['https://i.ibb.co/8x4Hqdw/account2.jpg','ikram',15,'https://i.ibb.co/2ZxBFVp/img2.jpg',150,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
-  ['https://i.ibb.co/CWbynB2/account3-1.jpg','amina',5,'https://i.ibb.co/5vQt677/img3.jpg',350,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
-  ['https://i.ibb.co/19R19st/account4.jpg','amal',15,'https://i.ibb.co/FVVxR6x/img.jpg',150,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
-  ['https://i.ibb.co/x68ZFKP/account6.jpg','amine',15,'https://i.ibb.co/r7xBR56/img5.jpg',150,'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima accusantium aperiam quod non minus cumque, recusandae hic soluta harum aut nulla... ',2],
+  ['https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV9ZKoD3VqogyJZa8n7B4Cs48YLI7lHCz4Sw&s','Pedro',67,'https://www.ripemedia.com/wp-content/uploads/2013/03/pixels.jpg',67069,'Um pixel, abreviado para elemento da imagem, é a menor unidade de uma imagem ou exibição digital. É um pequeno quadrado ou ponto que representa um único ponto de cor.',2],
+  ['https://c.ndtvimg.com/2026-04/kmh35bi4_trump-jesus_625x300_14_April_26.jpg?im=FaceCrop,algorithm=dnn,width=270,height=300','Trump',15,'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VTKRBATUqi20pB_bTWlpZ0vpQ3wPYFoGWQ&s',666,'Dear love❤️❤️❤️',2],
+  ['https://static.wikia.nocookie.net/viloes/images/e/e0/Jeff_the_Killer.webp/revision/latest/thumbnail/width/360/height/450?cb=20220603192746&path-prefix=pt-br','Iago',50,'https://i.ytimg.com/vi/d4dBDI-FbJ0/sddefault.jpg',50000,'⚠️ NÃO DIGA 67. 👁️💀 Você acha que é só um meme inocente do TikTok com jovens balançando as mãos, mas é exatamente isso que o algoritmo quer que você pense. Esse número virou uma verdadeira creepypasta da vida real que está destruindo a sanidade das escolas e agindo como um gatilho psicológico. Basta um infeliz pronunciar o número para ativar uma possessão coletiva de gritos, fazendo o foco e o aprendizado sumirem no void instantaneamente. Os professores já estão em estágio terminal de coringamento e até a tabuada virou zona de perigo. Por isso, se a sua conta der 67, arredonde logo para 68 e não brinque com a entidade que consumiu o cérebro da geração atual. Alguém avisa? 🤫👇',2],
+  ['https://www.estadao.com.br/resizer/v2/PXPAQXGOPZH3DDY6GL6IUKLG7E.jpg?quality=80&auth=46dd0bffc664e61889e65bd0bb2401273bd3e21f169d62f9add39e11476776d2&width=380','Jeffr',217, 'images/cometomyparty.png',150,'Venha para a nossa diversão!!!😜🤞🤗🤐',2],
+  ['https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbc7yviHnfmO4PdeFKv2-TbiT3zmxMSRWxA&s','Keven',15,'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVBeFBq0K0MpJwaSOtEExLwtgHmQx5C1jbmw&s',333,'😶‍🌫️😶‍🌫️😶‍🌫️',2],
 ]
 
 if(posts)

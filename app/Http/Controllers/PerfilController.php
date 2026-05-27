@@ -10,4 +10,12 @@ class PerfilController extends Controller
     {
         return view('perfil.profile');
     }
+        public function login()
+    {
+        return view('perfil.login');
+    }
+        public function sign_up()
+    {
+        return view('perfil.sign_up');
+    }
 }

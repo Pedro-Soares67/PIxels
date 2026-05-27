@@ -74,7 +74,7 @@
                             </li>
                             <li>
                                 <a href="./perfil">
-                                    <img class="circle story" src="./images/profile_img.jpg">
+                                    <img class="circle story" src="https://media.tenor.com/3L_AYUSs6gMAAAAe/pepo.pngx   ">
                                     <span class="d-none d-lg-block ">Profile</span>
                                 </a>
                             </li>
@@ -214,11 +214,11 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbc7yviHnfmO4PdeFKv2-TbiT3zmxMSRWxA&s" alt="">
                             </div>
                             <div class="info">
-                                <p class="name">Zineb_essoussi</p>
-                                <p class="second_name">Zim Ess</p>
+                                <p class="name">Keven</p>
+                                <p class="second_name">Kv</p>
                             </div>
                         </div>
                         <div class="clear">
@@ -231,19 +231,19 @@
         <!-- search  -->
         <!-- notification -->
         <div id="notification" class="notification_section">
-            <h2>Notifications</h2>
+     <h2>Notifications</h2>
             <div class="notifications">
                 <div class="notif follow_notif">
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://www.estadao.com.br/resizer/v2/PXPAQXGOPZH3DDY6GL6IUKLG7E.jpg?quality=80&auth=46dd0bffc664e61889e65bd0bb2401273bd3e21f169d62f9add39e11476776d2&width=380" alt="">
                             </div>
                             <div class="info">
                                 <p class="name">
-                                    Zineb_essoussi
+                                    Jeffr
                                     <span class="desc">started following you.</span>
-                                    <span class="time">2h</span>
+                                    <span class="time">67s</span>
                                 </p>
 
                             </div>
@@ -257,13 +257,13 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFrn4q1oY6BkbqkJWbIPAZxBiIrfyePNt2UQ&s" alt="">
                             </div>
                             <div class="info">
                                 <p class="name">
-                                    Zineb_essoussi
+                                    Daddy
                                     <span class="desc">started following you.</span>
-                                    <span class="time">2h</span>
+                                    <span class="time">69s</span>
                                 </p>
 
                             </div>
@@ -277,12 +277,12 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFrn4q1oY6BkbqkJWbIPAZxBiIrfyePNt2UQ&s" alt="">
                             </div>
                             <div class="info">
                                 <div class="info">
                                     <p class="name">
-                                        Zineb_essoussi
+                                        Daddy
                                         <span class="desc">liked your story.</span>
                                         <span class="time">2d</span>
                                     </p>
@@ -299,11 +299,11 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://i.pinimg.com/474x/e8/28/6e/e8286ed2e512757a9e0831ed9ebe0599.jpg" alt="">
                             </div>
                             <div class="info">
                                 <p class="name">
-                                    Zineb_essoussi
+                                    Raiam
                                     <span class="desc">started following you.</span>
                                     <span class="time">2h</span>
                                 </p>
@@ -319,12 +319,12 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://i.pinimg.com/474x/e8/28/6e/e8286ed2e512757a9e0831ed9ebe0599.jpg" alt="">
                             </div>
                             <div class="info">
                                 <div class="info">
                                     <p class="name">
-                                        Zineb_essoussi
+                                        Raiam
                                         <span class="desc">liked your story.</span>
                                         <span class="time">2d</span>
                                     </p>
@@ -341,11 +341,11 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYGLJXjDh_teN4aH7dNJzE0TQHcC0VO9itkA&s" alt="">
                             </div>
                             <div class="info">
                                 <p class="name">
-                                    Zineb_essoussi
+                                    Em0x
                                     <span class="desc">started following you.</span>
                                     <span class="time">2h</span>
                                 </p>
@@ -383,11 +383,11 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://media.tenor.com/3L_AYUSs6gMAAAAe/pepo.png" alt="perfil">
                             </div>
                             <div class="info">
-                                <p class="name">Zineb_essoussi</p>
-                                <p class="second_name">Zim Ess</p>
+                                <p class="name">Peppo</p>
+                                <p class="second_name">pp</p>
                             </div>
                         </div>
                         <div class="switch">
@@ -402,11 +402,11 @@
                         <div class="cart">
                             <div>
                                 <div class="img">
-                                    <img src="./images/profile_img.jpg" alt="">
+                                    <img src="https://i.pinimg.com/1200x/ac/f5/8d/acf58de03d60f8763f6870eac50dc070.jpg" alt="">
                                 </div>
                                 <div class="info">
-                                    <p class="name">Zineb_essoussi</p>
-                                    <p class="second_name">Zim Ess</p>
+                                    <p class="name">Dekki</p>
+                                    <p class="second_name">dk</p>
                                 </div>
                             </div>
                             <div class="switch">
@@ -416,11 +416,11 @@
                         <div class="cart">
                             <div>
                                 <div class="img">
-                                    <img src="./images/profile_img.jpg" alt="">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhE6TlnTd24V_a6gAJmGKAz-EFza-vE6m_w&s" alt="">
                                 </div>
                                 <div class="info">
-                                    <p class="name">Zineb_essoussi</p>
-                                    <p class="second_name">Zim Ess</p>
+                                    <p class="name">Pai de 5</p>
+                                    <p class="second_name">Anistia pfv</p>
                                 </div>
                             </div>
                             <div class="switch">
@@ -430,11 +430,11 @@
                         <div class="cart">
                             <div>
                                 <div class="img">
-                                    <img src="./images/profile_img.jpg" alt="">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFsXuWKV_Ib6d3cIwqw3I5dORphRIiblxwjA&s" alt="">
                                 </div>
                                 <div class="info">
-                                    <p class="name">Zineb_essoussi</p>
-                                    <p class="second_name">Zim Ess</p>
+                                    <p class="name">Nine Fingers</p>
+                                    <p class="second_name">D9</p>
                                 </div>
                             </div>
                             <div class="switch">
@@ -468,12 +468,12 @@
                                 <div class="person">
                                     <div class="d-flex">
                                         <div class="img">
-                                            <img src="./images/profile_img.jpg" alt="">
+                                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbc7yviHnfmO4PdeFKv2-TbiT3zmxMSRWxA&s" alt="">
                                         </div>
                                         <div class="content">
                                             <div class="person">
-                                                <h4>namePerson</h4>
-                                                <span>zim ess</span>
+                                                <h4>Keven</h4>
+                                                <span>KV</span>
                                             </div>
                                         </div>
                                     </div>
@@ -521,7 +521,7 @@
                             <div class="comment">
                                 <div class="d-flex">
                                     <div class="img">
-                                        <img src="./images/profile_img.jpg" alt="">
+                                        <img src="./images/buraco.jpg" alt="">
                                     </div>
                                     <div class="content">
                                         <div class="person">
@@ -552,7 +552,7 @@
                                 <div class="response comment">
                                     <div class="d-flex">
                                         <div class="img">
-                                            <img src="{{ asset('images/profile_img.jpg') }}" alt="">
+                                            <img src="{{ asset('images/buraco.jpg') }}" alt="">
                                         </div>
                                         </div>
                                         <div class="content">
@@ -580,7 +580,7 @@
                     <div class="modal-footer">
                         <form method="post">
                             <div class="input">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="./images/buraco.jpg" alt="">
                                 <input type="text" id="emoji_comment" placeholder="Add a comment..." />
                             </div>
                             <!-- <div class="emogi">

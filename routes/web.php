@@ -12,3 +12,5 @@ Route::get('/reels', [FeedController::class, 'reel']);
 Route::get('/explore', [ExplorarController::class, 'index']);
 Route::get('/messages', [MensagemController::class, 'index']);
 Route::get('/perfil', [PerfilController::class, 'index']);
+Route::get('/login', [PerfilController::class, 'login']);
+Route::get('/sign_up', [PerfilController::class, 'sign_up']);

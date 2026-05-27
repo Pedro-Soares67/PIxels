@@ -17,7 +17,7 @@
             <div class="content">
                 <div class="log-on border_insc">
                     <div class="logo">
-                        <img src="./images/logo.png" alt="Instagram logo">
+                        <img src="./images/pixelss.png" alt="PIxels logo">
                         <p>Sign up to see photos and videos from your friends.</p>
                         <button class="btn log_fac">
                             <a href="#">
