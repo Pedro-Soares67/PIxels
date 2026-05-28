@@ -10,4 +10,8 @@ class MensagemController extends Controller
     {
         return view('mensagens.messages');
     }
+      public function notification()
+    {
+        return view('mensagens.notification');
+    }
 }
