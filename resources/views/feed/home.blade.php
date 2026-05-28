@@ -126,7 +126,7 @@
                         <div class="dropdown">
                             <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
                                 aria-expanded="false">
-                                <img class="logo" src="./images/logo_menu.png">
+                                <img class="logo" src="./images/pixelss.png">
                             </button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="#">
@@ -167,7 +167,7 @@
                     <div class="dropdown">
                         <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
                             aria-expanded="false">
-                            <img class="logo" src="./images/logo_menu.png">
+                            <img class="logo" src="./images/pixelss.png">
                         </button>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="#">
@@ -196,7 +196,7 @@
                 <a href="./explore"><img src="./images/compass.png"></a>
                 <a href="./reels"><img src="./images/video.png"></a>
                 <a href="#" data-bs-toggle="modal" data-bs-target="#create_modal"><img src="./images/tab.png"></a>
-                <a href="profile"><img class="circle story" src="./images/profile_img.jpg"></a>
+                <a href="profile"><img class="circle story" src="https://media.tenor.com/3L_AYUSs6gMAAAAe/pepo.png"></a>
             </div>
         </div>
         <!-- search  -->

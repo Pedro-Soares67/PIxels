@@ -23,7 +23,7 @@
                 <div class="nav">
                     <div class="logo">
                         <a href="./">
-                            <img class="d-block d-lg-none small-logo" src="./images/instagram.png" alt="logo">
+                            <img class="d-block d-lg-none small-logo" src="./images/pixelss.png" alt="logo">
                             <img class="d-none d-lg-block" src="/images/pixelss.png" alt="logo">
                         </a>
                     </div>
@@ -126,7 +126,7 @@
                         <div class="dropdown">
                             <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
                                 aria-expanded="false">
-                                <img class="logo" src="./images/logo_menu.png">
+                                <img class="logo" src="./images/pixelss.png">
                             </button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="#">
@@ -165,7 +165,7 @@
                     <div class="dropdown">
                         <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
                             aria-expanded="false">
-                            <img class="logo" src="./images/logo_menu.png">
+                            <img class="logo" src="./images/pixelss.png">
                         </button>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="#">
