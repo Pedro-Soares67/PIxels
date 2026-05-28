@@ -180,7 +180,7 @@
                     </div>
                     <div class="left">
                         <img src="./images/send.png">
-                        <a href="./notification">
+                        <a href="./messages">
                             <img class="notification_icon" src="./images/love.png">
                         </a>
                         
