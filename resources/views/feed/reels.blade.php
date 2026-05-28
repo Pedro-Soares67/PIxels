@@ -535,10 +535,10 @@
                                 <div class="cart">
                                     <div>
                                         <div class="img">
-                                            <img src="./images/profile_img.jpg">
+                                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV9ZKoD3VqogyJZa8n7B4Cs48YLI7lHCz4Sw&s">
                                         </div>
                                         <div class="info">
-                                            <p class="name">Zineb_essoussi</p>
+                                            <p class="name">Pedro</p>
                                         </div>
                                     </div>
                                 </div>

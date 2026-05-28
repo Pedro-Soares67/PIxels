@@ -211,11 +211,11 @@
                     <div class="cart">
                         <div>
                             <div class="img">
-                                <img src="./images/profile_img.jpg" alt="">
+                                <img src="https://media.tenor.com/3L_AYUSs6gMAAAAe/pepo.png" alt="">
                             </div>
                             <div class="info">
-                                <p class="name">Zineb_essoussi</p>
-                                <p class="second_name">Zim Ess</p>
+                                <p class="name">Peppo</p>
+                                <p class="second_name">Pp</p>
                             </div>
                         </div>
                         <div class="clear">
@@ -393,7 +393,7 @@
                                             <img src="./images/profile_img.jpg">
                                         </div>
                                         <div class="info">
-                                            <p class="name">Zineb_essoussi</p>
+                                            <p class="name">Dekki</p>
                                         </div>
                                     </div>
                                 </div>
